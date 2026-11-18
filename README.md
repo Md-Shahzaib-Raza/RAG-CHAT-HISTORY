@@ -4,6 +4,10 @@ A Streamlit app for asking questions about uploaded PDF files. It extracts PDF
 text, retrieves relevant passages, and uses a Groq-hosted language model to
 answer questions with conversational context.
 
+## Live Demo
+
+[Open the app on Streamlit](https://rag-chat-history-ctqftvand3focyiwywxrre.streamlit.app/)
+
 ## Features
 
 - Upload one or more PDF files.
